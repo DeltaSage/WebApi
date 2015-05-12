@@ -1,0 +1,55 @@
+ETag	"AEqHJ39cYOcHij976IZqD9LCWzE/B0-z-lgGSPUz1H_gUjN1hrSfrLo"
+
+	Unique Identifier
+
+Content-Length	31658
+
+	Size of entity-body in octets
+
+#status#	HTTP/1.1 200 OK
+
+	Status Code
+
+X-XSS-Protection	1; mode=block
+
+	Toggles the XSS Filter of IE8	
+
+Expires	Tue, 12 May 2015 04:11:54 GMT
+
+	Determines if result will be taken from cache
+
+Alternate-Protocol	443:quic,p=1
+
+	Traffic manager
+
+Server	GSE
+
+	Name of server
+
+X-Content-Type-Options	nosniff
+
+	A directive that prevents scripts from running in most cases
+
+Cache-Control	private, max-age=0, must-revalidate, no-transform
+
+	Forces revalidation using ETag
+
+X-Frame-Options	SAMEORIGIN
+
+	Page can only be displayed in a frame on the specified origin
+
+Vary	Origin
+
+	Tells cache which parts of the header to read
+
+Vary	X-Origin
+
+	Tells cache which parts of the header to read
+
+Date	Tue, 12 May 2015 04:11:54 GMT
+
+	Time of request
+
+Content-Type	application/json; charset=UTF-8
+	
+	Desired form of response

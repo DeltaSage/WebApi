@@ -1,0 +1,27 @@
+Content-Length	403
+
+	Size in octets
+
+#status#	HTTP/1.1 200 OK
+
+	Status (Successful)
+
+Content-Encoding	gzip
+
+	Encoding type used
+
+Content-Type	text/xml; charset=utf-8
+
+	Character set used
+
+Server	Microsoft-IIS/7.0
+
+	Server type
+
+X-Powered-By	ASP.NET
+
+	Technology supporting web application
+
+Cache-Control	private, max-age=0
+
+	Forces revalidation

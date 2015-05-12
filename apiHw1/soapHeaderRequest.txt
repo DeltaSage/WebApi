@@ -1,0 +1,30 @@
+POST http://www.webservicex.net/geoipservice.asmx HTTP/1.1
+
+	Command and Address
+
+Accept-Encoding: gzip,deflate
+
+	Acceptable encoding schemes to return
+
+Content-Type: text/xml;charset=UTF-8
+
+	Character set
+
+SOAPAction: "http://www.webservicex.net/GetGeoIP"
+
+	Server domain name
+
+Content-Length: 325
+
+	Size in octets
+
+Host: www.webservicex.net
+
+	Root Domain
+
+Connection: Keep-Alive
+
+	Type of connection
+
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+	Identification of what is making this request
